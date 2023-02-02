@@ -1,2 +1,3 @@
 the file shows a push of a local git repos to a git hub account.
-
+now succeed in understanding pushing from a local machine repos
+and also pushing the local repos to github
